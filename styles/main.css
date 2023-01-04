@@ -53,10 +53,6 @@ main {
 
 /* Navbar */
 
-nav {
-    
-}
-
 nav > a {
     display: block; /* Элемент отображается, как блок */
     width: 200px;
